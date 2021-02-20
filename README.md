@@ -1,0 +1,1 @@
+Prohect details: Create a local library with Django Framework.
